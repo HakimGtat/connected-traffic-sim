@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+output/
+*.pyc
+scenarios/**/*.trips.xml
+scenarios/**/*.rou.alt.xml
